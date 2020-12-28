@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'NewDemoProtocolManager/Classes/**/*'
+  s.source_files = 'NewDemoProtocolManager/Classes/*{h,m}'
   
   # s.resource_bundles = {
   #   'NewDemoProtocolManager' => ['NewDemoProtocolManager/Assets/*.png']
