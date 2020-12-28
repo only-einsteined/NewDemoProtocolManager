@@ -1,0 +1,6 @@
+framework module NewDemoProtocolManager {
+  umbrella header "NewDemoProtocolManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
