@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NewDemoProtocolManager'
-  s.version          = '0.1.0'
+  s.version          = '0.4.5'
   s.summary          = 'A short description of NewDemoProtocolManager.'
 
 # This description is used to generate tags and improve search results.
