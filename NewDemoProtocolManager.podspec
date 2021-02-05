@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NewDemoProtocolManager'
-  s.version          = '0.4.7'
+  s.version          = '0.4.8'
   s.summary          = 'A short description of NewDemoProtocolManager.'
 
 # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'NewDemoProtocolManager/Classes/*{h,m}'
+  s.source_files = 'NewDemoProtocolManager/Code/*{h,m}'
   
   # s.resource_bundles = {
   #   'NewDemoProtocolManager' => ['NewDemoProtocolManager/Assets/*.png']
